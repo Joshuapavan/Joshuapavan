@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Pavan Kumar aka [Joshua Pavan]
-## I'm a Student, Developer, and Soccer Player!!
+## I'm a Student, Developer, and a Music Producer!!
 
 - 🌱 I’m currently learning Everything. 😅 
 - 👯 I’m looking to collaborate on other Developers 
