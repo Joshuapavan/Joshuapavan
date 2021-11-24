@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Pavan Kumar aka [Joshua Pavan]
 ## I'm a Student, Developer, and Soccer Player!!
 
-- 🌱 I’m currently learning Learning Everything. 😅 
+- 🌱 I’m currently learning Everything. 😅 
 - 👯 I’m looking to collaborate on other Developers 
 - 📫 How to reach me: joshuapavan35@gmail.com 
 - ⚡ Fun fact: I love to travel and play Piano / Guitar. 
