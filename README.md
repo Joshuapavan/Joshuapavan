@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Pavan Kumar aka [Joshua Pavan]
+### Hi there 👋, I am Pavan Kumar aka [Joshua Pavan]
 #### I'm a Student, Developer, and Soccer Player!!
 
 - 🌱 I’m currently learning Learning Everything. 😅 
