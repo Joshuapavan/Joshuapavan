@@ -1,7 +1,5 @@
 ### Hi there, I'm Pavan Kumar G - aka [Joshua Pavan] 👋 
 
-[![Twitter Follow](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)](https://twitter.com/Joshua12739162)
-
 ## I'm a Student, Developer, and Soccer Player!!
 
 - 🌱 I’m currently learning everything. 😅
