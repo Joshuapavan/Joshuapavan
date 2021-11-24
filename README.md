@@ -17,11 +17,16 @@
   <img align="left" alt="Joshuapavan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Joshuapavan&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
-
-
+<br/>
+<details>
+  <summary>:zap: Top Languages</summary>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshuapavan)](https://github.com/anuraghazra/github-readme-stats)  
-
+</details>
+<br/>
+<details>
+  <summary>:zap: GitHub Metrics</summary>
 ![GitHub metrics](https://metrics.lecoq.io/Joshuapavan)  
+</details>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Joshuapavan&theme=radical)  
 
