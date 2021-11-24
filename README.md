@@ -8,8 +8,7 @@
 - ⚡ Fun fact: I love to travel and play Piano / Guitar.a
 
 ### Connect with me:
-
-
+<br/>
 <img align="left" alt="Joshua Pavan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> https://twitter.com/Joshua12739162/
 <br/>
 <img align="left" alt="pavan-kumar-g | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/pavan-kumar-g-906a/
