@@ -17,6 +17,6 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/Joshuapavan)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Joshuapavan)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Joshuapavan&theme=radical)  
 
 ![Profile views](https://gpvc.arturio.dev/Joshuapavan)  
