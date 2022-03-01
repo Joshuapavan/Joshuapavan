@@ -2,8 +2,8 @@
 ## I'm a Student, Developer, and a Music Producer!!
 
 - 🌱 I’m currently learning Everything. 😅 
-- 👯 I’m looking to collaborate with other Developers 
-- 📫 How to reach me: joshuapavan35@gmail.com 
+- 👯 I’m looking to collaborate with other Developers. 
+- 📫 How to reach me: joshuapavan35@gmail.com.
 - ⚡ Fun fact: I love to travel and play Piano / Guitar. 
 
 
