@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Pavan Kumar aka [Joshua Pavan]
+### Hi there 👋, my name is Pavan Kumar aka [Josh]
 ## I'm a Student, Developer, and a Music Producer!!
 
 - 🌱 I’m currently learning Everything. 😅 
