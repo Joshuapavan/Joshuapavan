@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Pavan Kumar aka [Josh]
-## I'm a Student, Developer, and a Music Producer!!
+## I'm a Software Engineer, and a Music Producer!!
 
 - 🌱 I’m currently learning Everything. 😅 
 - 👯 I’m looking to collaborate with other Developers. 
