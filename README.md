@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Joshua
+### Hi there,👋 my name is Joshua
 ## I'm a Software Engineer and a Music Producer!!
 
 - 🌱 I’m currently learning Everything. 😅 
