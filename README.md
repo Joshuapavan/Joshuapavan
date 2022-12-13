@@ -1,7 +1,7 @@
 ### Hi there,👋 my name is Joshua
 ## I'm a Software Engineer and a Music Producer!!
 
-- 🌱 I’m currently learning Everything. 😅 
+- 🌱 I’m currently learning Ruby on Rails.
 - 👯 I’m looking to collaborate with other Developers. 
 - 📫 How to reach me: joshuapavan35@gmail.com.
 - ⚡ Fun fact: I love to travel and play Piano / Guitar. 
