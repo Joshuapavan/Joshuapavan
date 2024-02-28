@@ -1,7 +1,7 @@
 ### Hi there,👋 my name is Joshua
 ## I'm a Software Engineer and a Music Producer!!
 
-- 🌱 I’m currently Working with SpringBoot and Ruby on Rails.
+- 🌱 I’m currently working on SpringBoot and Ruby on Rails.
 - 👯 I’m looking to collaborate with other Developers. 
 - 📫 How to reach me: joshuapavan35@gmail.com.
 - ⚡ Fun fact: I love to travel and play Piano / Guitar. 
