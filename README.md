@@ -1,7 +1,7 @@
 ### Hi there,👋 my name is Joshua
 ## I'm a Software Engineer and a Music Producer!!
 
-- 🌱 I’m currently working on SpringBoot, Rails, Flutter and ReactJs.
+- 🌱 I’m currently working on DotNet, Angular, SpringBoot, Rails, Flutter and ReactJs.
 - 👯 I’m looking to collaborate with other Developers. 
 - 📫 How to reach me: joshuapavan35@gmail.com.
 - ⚡ Fun fact: I love to travel, play instruments such as the Piano / Guitar. 
