@@ -4,9 +4,9 @@
 Software Engineer passionate about building scalable applications and creating music. I specialize in full-stack development with expertise in multiple modern frameworks and technologies.
 
 ### 🚀 Current Focus
-- Working with DotNet, Angular, Spring Boot, Rails, Flutter, and ReactJS
-- Building innovative full-stack applications
-- Expanding knowledge in cloud technologies
+- Working with DotNet, Angular, Spring Boot, Rails, Flutter, and ReactJS.
+- Building innovative full-stack applications.
+- Expanding knowledge in cloud technologies and AI.
 
 ### 🎯 Goals
 - Collaborating with other developers on impactful projects
