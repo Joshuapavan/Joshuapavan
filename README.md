@@ -14,8 +14,8 @@ Software Engineer passionate about building scalable applications and creating m
 - Continuous learning and growth in software development
 
 ### 🎵 Beyond Coding
-- Music Production
-- Piano & Guitar Player
+- Music Producer
+- Pianist & Guitarist
 - Travel Enthusiast
 
 ## ⚡️ Tech Stack
