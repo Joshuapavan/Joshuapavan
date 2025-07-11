@@ -99,3 +99,7 @@ Software Engineer passionate about building scalable applications and creating m
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshuapavan&layout=compact&theme=radical&hide_border=true&border_radius=10&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E" width="32%" style="box-shadow: 0 0 20px rgba(0,0,0,0.5);" />
     <img src="https://streak-stats.demolab.com/?user=Joshuapavan&theme=radical&hide_border=true&border_radius=10&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="32%" style="box-shadow: 0 0 20px rgba(0,0,0,0.5);" />
 </p>
+
+## Contribution Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Joshuapavan&theme=react-dark)](https://github.com/Joshuapavan)
+
