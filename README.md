@@ -20,6 +20,18 @@ Software Engineer passionate about building scalable applications and creating m
 
 ## ⚡️ Tech Stack
 <p align="left">
+    <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer" title=".NET Core - A cross-platform framework for building modern cloud-based web applications">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/>
+    </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" title="C# - A modern, object-oriented programming language developed by Microsoft for building a variety of applications">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript - A strongly typed programming language that builds on JavaScript, giving you better tooling at any scale">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    </a>
+    <a href="https://angular.io/" target="_blank" rel="noreferrer" title="Angular - A TypeScript-based open-source web application framework led by the Angular Team at Google">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/>
+    </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer" title="Java - A versatile, class-based, object-oriented programming language designed for portability and security">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
     </a>
@@ -67,6 +79,9 @@ Software Engineer passionate about building scalable applications and creating m
     </a>
     <a href="https://www.postman.com" target="_blank" rel="noreferrer" title="Postman - A popular API platform for building and using APIs">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    </a>
+    <a href="https://grafana.com/" target="_blank" rel="noreferrer" title="Grafana - An open-source platform for monitoring and observability with dashboards and alerting">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/>
     </a>
     <a href="https://www.linux.org" target="_blank" rel="noreferrer" title="Linux - An open-source operating system kernel powering millions of devices">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
