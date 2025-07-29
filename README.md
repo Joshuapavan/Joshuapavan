@@ -20,11 +20,11 @@ Software Engineer passionate about building scalable applications and creating m
 
 ## ⚡️ Tech Stack
 <p align="left">
-    <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer" title=".NET Core - A cross-platform framework for building modern cloud-based web applications">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/>
-    </a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" title="C# - A modern, object-oriented programming language developed by Microsoft for building a variety of applications">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+    </a>
+    <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer" title=".NET Core - A cross-platform framework for building modern cloud-based web applications">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/>
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript - A strongly typed programming language that builds on JavaScript, giving you better tooling at any scale">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
