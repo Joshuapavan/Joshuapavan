@@ -6,7 +6,7 @@ Software Engineer passionate about building scalable applications and creating m
 ### 🎧 Current Focus
 - Working with DotNet, Angular, Spring Boot, Rails, Flutter, and ReactJS.
 - Building innovative full-stack applications.
-- Expanding knowledge in cloud technologies and AI.
+- Expanding knowledge in Cloud Technologies and AI.
 
 ### 🎯 Goals
 - Collaborating with other developers on impactful projects
