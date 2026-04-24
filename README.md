@@ -19,7 +19,7 @@ Software Engineer passionate about building scalable applications and creating m
 - Travel Enthusiast
 
 ## ⚡️ Tech Stack
-<p align="left">
+<div style="display: flex; flex-wrap: nowrap; align-items: center; gap: 10px;">
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" title="C# - A modern, object-oriented programming language developed by Microsoft for building a variety of applications">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
     </a>
@@ -86,20 +86,18 @@ Software Engineer passionate about building scalable applications and creating m
     <a href="https://www.linux.org" target="_blank" rel="noreferrer" title="Linux - An open-source operating system kernel powering millions of devices">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
-</p>
+</div>
 
 ## 🤝 Connect With Me
-<p align="left">
 <p style="display: flex; gap: 10px;">
     <a href="https://www.linkedin.com/in/pavan-kumar-g-906a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://github.com/Joshuapavan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
     <!-- <a href="https://twitter.com/joshua12739162"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
     <a href="https://www.facebook.com/JoshuaPavan.G"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a> -->
 </p>
-</p>
 
 ## 💬 Let's Connect
-<p align="left">
+<p style="display: flex; gap: 10px;">
     <a href="mailto:joshuapavan35@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
@@ -117,4 +115,3 @@ Software Engineer passionate about building scalable applications and creating m
 
 ## Contribution Graph
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Joshuapavan&theme=react-dark)](https://github.com/Joshuapavan)
-
