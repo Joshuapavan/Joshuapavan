@@ -19,7 +19,7 @@ Software Engineer passionate about building scalable applications and creating m
 - Travel Enthusiast
 
 ## ⚡️ Tech Stack
-<div style="display: flex; flex-wrap: nowrap; align-items: center; gap: 10px;">
+<p style="text-align: left; white-space: nowrap; overflow-x: auto;">
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" title="C# - A modern, object-oriented programming language developed by Microsoft for building a variety of applications">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
     </a>
@@ -86,7 +86,7 @@ Software Engineer passionate about building scalable applications and creating m
     <a href="https://www.linux.org" target="_blank" rel="noreferrer" title="Linux - An open-source operating system kernel powering millions of devices">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
-</div>
+</p>
 
 ## 🤝 Connect With Me
 <p style="display: flex; gap: 10px;">
