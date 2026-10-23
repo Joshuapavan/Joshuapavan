@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Joshua
-# [Scripture Pod](https://scripture-pod.vercel.app/) is Live! [Click Here to download](https://scripture-pod.vercel.app/#download)
-
+# Hi there! 👋 I'm Joshua 
+#### [Scripture Pod](https://scripture-pod.vercel.app/) is Live! [Click Here to download](https://scripture-pod.vercel.app/#download)
+---
 ## About Me
 Software Engineer passionate about building scalable applications and creating music. I specialize in full-stack development with expertise in multiple modern frameworks and technologies.
 
