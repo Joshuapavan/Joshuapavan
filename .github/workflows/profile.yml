@@ -2,7 +2,7 @@ name: Profile README
 on:
   schedule:
     # Every day at 03:00 UTC (08:30 in Bengaluru)
-    - cron: '0 3 * * *'
+    - cron: '*/10 * * * *'
   workflow_dispatch:
   push:
     branches: [main]
