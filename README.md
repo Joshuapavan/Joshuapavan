@@ -56,9 +56,9 @@ Senior software engineer working in Angular, .NET and AI-assisted engineering: a
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Scripture Pod](https://ytcards.demolab.com/?id=243lUzLlGgg&title=Scripture+Pod&lang=en&timestamp=1795195311&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Scripture Pod")](https://www.youtube.com/watch?v=243lUzLlGgg)
-[![Holy Forever - Piano Improv](https://ytcards.demolab.com/?id=9wpDxgbgZyU&title=Holy+Forever+-+Piano+Improv&lang=en&timestamp=1742135382&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Holy Forever - Piano Improv")](https://www.youtube.com/watch?v=9wpDxgbgZyU)
-[![Agnus Dei - Story](https://ytcards.demolab.com/?id=JSUBmjLUyWE&title=Agnus+Dei+-+Story&lang=en&timestamp=1724079471&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Agnus Dei - Story")](https://www.youtube.com/watch?v=JSUBmjLUyWE)
-[![Mateus asato - Breakup song](https://ytcards.demolab.com/?id=8DpLvscRfQE&title=Mateus+asato+-+Breakup+song&lang=en&timestamp=1686926911&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Mateus asato - Breakup song")](https://www.youtube.com/watch?v=8DpLvscRfQE)
+[![Holy Forever - Piano Improv](https://ytcards.demolab.com/?id=9wpDxgbgZyU&title=Holy+Forever+-+Piano+Improv&lang=en&timestamp=1742135382&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Holy Forever - Piano Improv")](https://www.youtube.com/shorts/9wpDxgbgZyU)
+[![Agnus Dei - Story](https://ytcards.demolab.com/?id=JSUBmjLUyWE&title=Agnus+Dei+-+Story&lang=en&timestamp=1724079471&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Agnus Dei - Story")](https://www.youtube.com/shorts/JSUBmjLUyWE)
+[![Mateus asato - Breakup song](https://ytcards.demolab.com/?id=8DpLvscRfQE&title=Mateus+asato+-+Breakup+song&lang=en&timestamp=1686926911&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Mateus asato - Breakup song")](https://www.youtube.com/shorts/8DpLvscRfQE)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@joshuapavan?sub_confirmation=1)
