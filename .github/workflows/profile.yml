@@ -1,0 +1,46 @@
+name: Profile README
+on:
+  schedule:
+    # Every day at 03:00 UTC (08:30 in Bengaluru)
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/scripts/**'
+      - '.github/assets/icons/**'
+      - '.github/workflows/profile.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      # Checks out the repo, then rewrites the block between the YOUTUBE-CARDS comments.
+      - uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UCU-zE3krzE5DR_VxIrk-YnQ
+          comment_tag_name: YOUTUBE-CARDS
+          max_videos: 6
+          # Optional: add a YOUTUBE_API_KEY repo secret to show video lengths
+          # and a live subscriber count on the Subscribe badge.
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+          show_duration: ${{ secrets.YOUTUBE_API_KEY != '' }}
+
+      - name: Update badges and project cards
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python3 .github/scripts/profile_assets.py
+
+      # Runs even if one source failed above, so the parts that worked still land.
+      - name: Commit badge and card updates
+        if: ${{ !cancelled() }}
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "docs(readme): Update profile badges and cards"
+          add: ".github/assets"
+          author_name: "GitHub Actions"
+          author_email: "41898282+github-actions[bot]@users.noreply.github.com"
