@@ -27,8 +27,9 @@ YOUTUBE_CHANNEL_ID = "UCU-zE3krzE5DR_VxIrk-YnQ"
 ASSETS = Path(__file__).resolve().parents[2] / ".github" / "assets"
 ICONS = ASSETS / "icons"
 
-# Featured projects, in README order. `repo` is where the live numbers come from.
-# `icon` is a PNG in .github/assets/icons; without one the card draws `glyph`.
+# Featured projects, in README order. `repo` is where the live numbers come from;
+# without one the card shows `meta` and no star count.
+# `icon` is a PNG or SVG in .github/assets/icons; without one the card draws `glyph`.
 PROJECTS = [
     {
         "file": "card-scripture-pod.svg",
@@ -58,6 +59,15 @@ PROJECTS = [
         "dot": "#DD0031",
         "no_release": "Live web app",
         "blurb": "An animated streak card for your profile README, with an activity chart and your top languages.",
+    },
+    {
+        "file": "card-pressd.svg",
+        "name": "Pressd",
+        "icon": "pressd.svg",
+        "stack": "Angular · .NET · Firebase",
+        "dot": "#DD0031",
+        "meta": "Online store",
+        "blurb": "Christ-centred T-shirts, hoodies, mugs and your own designs, made to order and shipped across India.",
     },
 ]
 
@@ -176,9 +186,10 @@ def card(p, stars, meta):
     name, stack = escape(p["name"]), escape(p["stack"])
     if p.get("icon"):
         data = base64.b64encode((ICONS / p["icon"]).read_bytes()).decode()
+        mime = "image/svg+xml" if p["icon"].endswith(".svg") else "image/png"
         tile = (
             '<clipPath id="tile"><rect x="16" y="16" width="32" height="32" rx="8"/></clipPath>'
-            f'<image x="16" y="16" width="32" height="32" clip-path="url(#tile)" href="data:image/png;base64,{data}"/>'
+            f'<image x="16" y="16" width="32" height="32" clip-path="url(#tile)" href="data:{mime};base64,{data}"/>'
         )
     else:
         tile = (
@@ -187,7 +198,13 @@ def card(p, stars, meta):
         )
     lines = wrap(p["blurb"], CARD_W - 2 * PAD, 12, 3)
     blurb = "".join(f'<tspan x="{PAD}" y="{74 + 17 * i}">{escape(t)}</tspan>' for i, t in enumerate(lines))
-    star_x = 31 + verdana(p["stack"], 11) + 14
+    star = ""
+    if stars is not None:
+        star_x = 31 + verdana(p["stack"], 11) + 14
+        star = (
+            f'<path transform="translate({star_x:g} 122) scale(.75)" fill="#9198a1" d="{STAR_SMALL}"/>'
+            f'<text x="{star_x + 16:g}" y="134" font-size="11" fill="#9198a1">{stars}</text>'
+        )
     return (
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{CARD_W}" height="{CARD_H}" '
         f'viewBox="0 0 {CARD_W} {CARD_H}" role="img" aria-label="{name}: {escape(p["blurb"])}">'
@@ -200,8 +217,7 @@ def card(p, stars, meta):
         f'<text font-size="12" fill="#dedede">{blurb}</text>'
         f'<circle cx="21" cy="130" r="5" fill="{p["dot"]}"/>'
         f'<text x="31" y="134" font-size="11" fill="#9198a1">{stack}</text>'
-        f'<path transform="translate({star_x:g} 122) scale(.75)" fill="#9198a1" d="{STAR_SMALL}"/>'
-        f'<text x="{star_x + 16:g}" y="134" font-size="11" fill="#9198a1">{stars}</text>'
+        f"{star}"
         "</g></svg>\n"
     )
 
@@ -285,6 +301,9 @@ def main():
 
     for p in PROJECTS:
         try:
+            if not p.get("repo"):
+                write(p["file"], card(p, None, p["meta"]))
+                continue
             stars = github(f"repos/{GITHUB_USER}/{p['repo']}")["stargazers_count"]
             version, downloads = releases(p["repo"])
             meta = [version] if version else [p.get("no_release", "Open source")]
@@ -298,7 +317,7 @@ def main():
                 ))
             print(f"{p['repo']}: stars={stars} version={version} downloads={downloads}")
         except Exception as e:
-            print(f"{p['repo']} failed: {type(e).__name__}")
+            print(f"{p['name']} failed: {type(e).__name__}")
             failed = True
 
     sys.exit(1 if failed else 0)
