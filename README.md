@@ -47,6 +47,7 @@ Senior software engineer working in Angular, .NET and AI-assisted engineering: a
 <a href="https://scripture-pod.vercel.app/"><img alt="Scripture Pod: Bible verses, lyrics and lower thirds for church services" src=".github/assets/card-scripture-pod.svg" width="250"/></a>
 <a href="https://trimly-clipy.vercel.app/"><img alt="Trimly: clip just the part of a video link you need" src=".github/assets/card-trimly.svg" width="250"/></a>
 <a href="https://joshuapavan-gh-stats.vercel.app"><img alt="GitHub Streak Stats: an animated streak card for your README" src=".github/assets/card-streak-stats.svg" width="250"/></a>
+<a href="https://pressd-shop.vercel.app/"><img alt="Pressd | Chirst-centered clothing and Custom prints" src=".github/assets/pressd.png" width="250"/></a>
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Download%20Scripture%20Pod-4F46E5?style=for-the-badge&logo=download&logoColor=white"/>](https://scripture-pod.vercel.app/#download)
 
